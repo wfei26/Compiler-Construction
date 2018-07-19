@@ -1,0 +1,195 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOC	cgen.yacc.h	/^    ALLOC = 264,$/;"	e	enum:yytokentype
+ARG_H	arg.h	2;"	d
+ASSIGN	cgen.yacc.h	/^    ASSIGN = 269,$/;"	e	enum:yytokentype
+BGNSTMT	cgen.yacc.h	/^    BGNSTMT = 268,$/;"	e	enum:yytokentype
+BR	cgen.yacc.h	/^    BR = 259,$/;"	e	enum:yytokentype
+BT	cgen.yacc.h	/^    BT = 258,$/;"	e	enum:yytokentype
+CC	Makefile	/^CC=gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-Wall -Wno-unused-label -std=gnu99 -I. -g$/;"	m
+FADD	cgen.yacc.h	/^    FADD = 277,$/;"	e	enum:yytokentype
+FARG	cgen.yacc.h	/^    FARG = 284,$/;"	e	enum:yytokentype
+FASSIGN	cgen.yacc.h	/^    FASSIGN = 276,$/;"	e	enum:yytokentype
+FCALL	cgen.yacc.h	/^    FCALL = 283,$/;"	e	enum:yytokentype
+FCONV	cgen.yacc.h	/^    FCONV = 282,$/;"	e	enum:yytokentype
+FDEREF	cgen.yacc.h	/^    FDEREF = 281,$/;"	e	enum:yytokentype
+FDIV	cgen.yacc.h	/^    FDIV = 280,$/;"	e	enum:yytokentype
+FEND	cgen.yacc.h	/^    FEND = 267,$/;"	e	enum:yytokentype
+FEQ	cgen.yacc.h	/^    FEQ = 270,$/;"	e	enum:yytokentype
+FGE	cgen.yacc.h	/^    FGE = 273,$/;"	e	enum:yytokentype
+FGT	cgen.yacc.h	/^    FGT = 275,$/;"	e	enum:yytokentype
+FIDX	cgen.yacc.h	/^    FIDX = 286,$/;"	e	enum:yytokentype
+FLE	cgen.yacc.h	/^    FLE = 272,$/;"	e	enum:yytokentype
+FLT	cgen.yacc.h	/^    FLT = 274,$/;"	e	enum:yytokentype
+FMUL	cgen.yacc.h	/^    FMUL = 279,$/;"	e	enum:yytokentype
+FNE	cgen.yacc.h	/^    FNE = 271,$/;"	e	enum:yytokentype
+FORMAL	cgen.yacc.h	/^    FORMAL = 263,$/;"	e	enum:yytokentype
+FRET	cgen.yacc.h	/^    FRET = 285,$/;"	e	enum:yytokentype
+FSUB	cgen.yacc.h	/^    FSUB = 278,$/;"	e	enum:yytokentype
+FUNC	cgen.yacc.h	/^    FUNC = 266,$/;"	e	enum:yytokentype
+FUNCTION_H	function.h	2;"	d
+GLOBAL	cgen.yacc.h	/^    GLOBAL = 260,$/;"	e	enum:yytokentype
+IADD	cgen.yacc.h	/^    IADD = 299,$/;"	e	enum:yytokentype
+IAND	cgen.yacc.h	/^    IAND = 295,$/;"	e	enum:yytokentype
+IARG	cgen.yacc.h	/^    IARG = 308,$/;"	e	enum:yytokentype
+IASSIGN	cgen.yacc.h	/^    IASSIGN = 293,$/;"	e	enum:yytokentype
+ICALL	cgen.yacc.h	/^    ICALL = 307,$/;"	e	enum:yytokentype
+ICONV	cgen.yacc.h	/^    ICONV = 306,$/;"	e	enum:yytokentype
+ID	cgen.yacc.h	/^    ID = 312,$/;"	e	enum:yytokentype
+IDEREF	cgen.yacc.h	/^    IDEREF = 305,$/;"	e	enum:yytokentype
+IDIV	cgen.yacc.h	/^    IDIV = 302,$/;"	e	enum:yytokentype
+IEQ	cgen.yacc.h	/^    IEQ = 287,$/;"	e	enum:yytokentype
+IGE	cgen.yacc.h	/^    IGE = 290,$/;"	e	enum:yytokentype
+IGT	cgen.yacc.h	/^    IGT = 292,$/;"	e	enum:yytokentype
+IIDX	cgen.yacc.h	/^    IIDX = 310,$/;"	e	enum:yytokentype
+IINV	cgen.yacc.h	/^    IINV = 304,$/;"	e	enum:yytokentype
+ILE	cgen.yacc.h	/^    ILE = 289,$/;"	e	enum:yytokentype
+ILT	cgen.yacc.h	/^    ILT = 291,$/;"	e	enum:yytokentype
+IMOD	cgen.yacc.h	/^    IMOD = 303,$/;"	e	enum:yytokentype
+IMUL	cgen.yacc.h	/^    IMUL = 301,$/;"	e	enum:yytokentype
+INE	cgen.yacc.h	/^    INE = 288,$/;"	e	enum:yytokentype
+INT	cgen.yacc.h	/^    INT = 311,$/;"	e	enum:yytokentype
+IOR	cgen.yacc.h	/^    IOR = 294,$/;"	e	enum:yytokentype
+IRET	cgen.yacc.h	/^    IRET = 309,$/;"	e	enum:yytokentype
+ISHL	cgen.yacc.h	/^    ISHL = 297,$/;"	e	enum:yytokentype
+ISHR	cgen.yacc.h	/^    ISHR = 298,$/;"	e	enum:yytokentype
+ISUB	cgen.yacc.h	/^    ISUB = 300,$/;"	e	enum:yytokentype
+IXOR	cgen.yacc.h	/^    IXOR = 296,$/;"	e	enum:yytokentype
+LEX	Makefile	/^LEX=flex$/;"	m
+LFLAGS	Makefile	/^LFLAGS=$/;"	m
+LOCAL	cgen.yacc.h	/^    LOCAL = 261,$/;"	e	enum:yytokentype
+LOCALLOC	cgen.yacc.h	/^    LOCALLOC = 265,$/;"	e	enum:yytokentype
+LOCAL_H	local.h	2;"	d
+OPERAND_GLOBAL	temp.h	9;"	d
+OPERAND_INT	temp.h	10;"	d
+OPERAND_LOCAL	temp.h	8;"	d
+OPERAND_PARAM	temp.h	7;"	d
+OPER_H	temp.h	27;"	d
+PARAM	cgen.yacc.h	/^    PARAM = 262,$/;"	e	enum:yytokentype
+STR	cgen.yacc.h	/^    STR = 313$/;"	e	enum:yytokentype
+STRING_H	strng.h	2;"	d
+TEMP_H	temp.h	2;"	d
+YACC	Makefile	/^YACC=bison$/;"	m
+YFLAGS	Makefile	/^YFLAGS=$/;"	m
+YYDEBUG	cgen.yacc.h	37;"	d
+YYLTYPE	cgen.yacc.h	/^struct YYLTYPE$/;"	s
+YYLTYPE	cgen.yacc.h	/^typedef struct YYLTYPE YYLTYPE;$/;"	t	typeref:struct:YYLTYPE
+YYLTYPE_IS_DECLARED	cgen.yacc.h	138;"	d
+YYLTYPE_IS_TRIVIAL	cgen.yacc.h	139;"	d
+YYSTYPE	cgen.yacc.h	/^typedef union YYSTYPE YYSTYPE;$/;"	t	typeref:union:YYSTYPE
+YYSTYPE	cgen.yacc.h	/^union YYSTYPE$/;"	u
+YYSTYPE_IS_DECLARED	cgen.yacc.h	125;"	d
+YYSTYPE_IS_TRIVIAL	cgen.yacc.h	124;"	d
+YYTOKENTYPE	cgen.yacc.h	45;"	d
+YY_YY_CGEN_YACC_H_INCLUDED	cgen.yacc.h	34;"	d
+arg	cgen.yacc.h	/^    struct arg_t *arg;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::arg_t
+arg	temp.h	/^        arg_t *arg;$/;"	m	union:temp_t::__anon1
+arg_destroy	arg.c	/^void arg_destroy(arg_t *arg) {$/;"	f
+arg_dump	arg.c	/^void arg_dump(arg_t *arg) {$/;"	f
+arg_init	arg.c	/^arg_t* arg_init(long long size, long long offset, arg_t *next) {$/;"	f
+arg_print	arg.c	/^void arg_print(arg_t *arg) {$/;"	f
+arg_t	arg.h	/^typedef struct arg_t {$/;"	s
+arg_t	arg.h	/^} arg_t;$/;"	t	typeref:struct:arg_t
+args	function.h	/^    arg_t *args;$/;"	m	struct:function_t
+binop	cgen.y	/^binop   : ID IEQ ID     { $/;"	l
+fhead	cgen.y	/^fhead : FUNC ID {$/;"	l
+first_column	cgen.yacc.h	/^  int first_column;$/;"	m	struct:YYLTYPE
+first_line	cgen.yacc.h	/^  int first_line;$/;"	m	struct:YYLTYPE
+formals	cgen.y	/^formals : \/* empty rule *\/   { $$ = NULL; }$/;"	l
+func	cgen.y	/^func  : fhead formals locals stmts FEND {$/;"	l
+func	cgen.yacc.h	/^    struct function_t *func;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::function_t
+function	function.c	/^function_t *function;$/;"	v
+function_destroy	function.c	/^void function_destroy(function_t *func) {$/;"	f
+function_dump	function.c	/^void function_dump(function_t *func) {$/;"	f
+function_findtemp	function.c	/^temp_t* function_findtemp(function_t *func, const char *name) {$/;"	f
+function_getarg	function.c	/^temp_t* function_getarg(function_t *func, unsigned num, char *name) {$/;"	f
+function_getglb	function.c	/^temp_t* function_getglb(function_t *func, const char *glb, char *name) {$/;"	f
+function_getint	function.c	/^temp_t* function_getint(function_t *func, long long val, char *name) {$/;"	f
+function_getlocal	function.c	/^temp_t* function_getlocal(function_t *func, unsigned num, char *name) {$/;"	f
+function_getstr	function.c	/^temp_t* function_getstr(function_t *func, char *str, char *name) {$/;"	f
+function_gettemp	function.c	/^temp_t* function_gettemp(function_t *func, long long size, char *name) {$/;"	f
+function_init	function.c	/^function_t* function_init(char *name) {$/;"	f
+function_labeltemp	function.c	/^void function_labeltemp(function_t *func, const char *name) {$/;"	f
+function_newarg	function.c	/^arg_t* function_newarg(function_t *func, long long size) {$/;"	f
+function_newlocal	function.c	/^local_t* function_newlocal(function_t *func, long long size) {$/;"	f
+function_printtemp	function.c	/^void function_printtemp(function_t *func, const char *name) {$/;"	f
+function_t	function.h	/^typedef struct function_t {$/;"	s
+function_t	function.h	/^} function_t;$/;"	t	typeref:struct:function_t
+glb	temp.h	/^        const char *glb;$/;"	m	union:temp_t::__anon1
+global	cgen.y	/^global : ALLOC ID INT   {$/;"	l
+id	cgen.yacc.h	/^    char* id;$/;"	m	union:YYSTYPE
+intval	cgen.yacc.h	/^    long long intval;$/;"	m	union:YYSTYPE
+last_column	cgen.yacc.h	/^  int last_column;$/;"	m	struct:YYLTYPE
+last_line	cgen.yacc.h	/^  int last_line;$/;"	m	struct:YYLTYPE
+loc	cgen.yacc.h	/^    struct local_t *loc;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::local_t
+local	temp.h	/^        local_t *local;$/;"	m	union:temp_t::__anon1
+local_destroy	local.c	/^void local_destroy(local_t *local) {$/;"	f
+local_dump	local.c	/^void local_dump(local_t *local) {$/;"	f
+local_init	local.c	/^local_t* local_init(long long size, long long offset, local_t *next) {$/;"	f
+local_print	local.c	/^void local_print(local_t *local) {$/;"	f
+local_t	local.h	/^typedef struct local_t {$/;"	s
+local_t	local.h	/^} local_t;$/;"	t	typeref:struct:local_t
+locals	cgen.y	/^locals  :  \/* empty rule *\/    { $$ = NULL; }$/;"	l
+locals	function.h	/^    local_t *locals;$/;"	m	struct:function_t
+main	main.c	/^int main( int argc, const char *argv[] ) {$/;"	f
+main	test.c	/^int main( int argc, const char *argv[] ) {$/;"	f
+mkparent	main.c	/^void mkparent( const char *path ) {$/;"	f
+name	function.h	/^    char *name;$/;"	m	struct:function_t
+name	strng.h	/^    char *name;$/;"	m	struct:string_t
+name	temp.h	/^    char *name;$/;"	m	struct:temp_t
+next	arg.h	/^    struct arg_t *next;$/;"	m	struct:arg_t	typeref:struct:arg_t::arg_t
+next	local.h	/^    struct local_t *next;$/;"	m	struct:local_t	typeref:struct:local_t::local_t
+next	strng.h	/^    struct string_t *next;$/;"	m	struct:string_t	typeref:struct:string_t::string_t
+next	temp.h	/^    struct temp_t *next;$/;"	m	struct:temp_t	typeref:struct:temp_t::temp_t
+next_str	function.c	/^unsigned next_str = 0;$/;"	v
+offset	arg.h	/^    long long offset;$/;"	m	struct:arg_t
+offset	local.h	/^    long long offset;$/;"	m	struct:local_t
+oper_t	temp.h	/^typedef struct oper_t {$/;"	s
+oper_t	temp.h	/^} oper_t;$/;"	t	typeref:struct:oper_t
+ops	cgen.y	/^ops     : \/* empty rule *\/        { $$ = NULL; }$/;"	l
+size	arg.h	/^    long long size;$/;"	m	struct:arg_t
+size	local.h	/^    long long size;$/;"	m	struct:local_t
+stack_offset	function.h	/^    long long stack_offset;$/;"	m	struct:function_t
+stack_size	function.h	/^    long long stack_size;$/;"	m	struct:function_t
+std	Makefile	/^	gcc -std=gnu99 -g -march=pentium -m32 -o $@ test.c test.t.s$/;"	m
+std	Makefile	/^	gcc -std=gnu99 -march=pentium -m32 -S -o $@ $<$/;"	m
+stmts	cgen.y	/^stmts   : \/* empty rule *\/$/;"	l
+str	cgen.yacc.h	/^    char* str;$/;"	m	union:YYSTYPE
+str	strng.h	/^    char *str;$/;"	m	struct:string_t
+string_destroy	strng.c	/^void string_destroy(string_t *string) {$/;"	f
+string_init	strng.c	/^string_t* string_init(char *name, char *str, string_t *next) {$/;"	f
+string_t	strng.h	/^typedef struct string_t {$/;"	s
+string_t	strng.h	/^} string_t;$/;"	t	typeref:struct:string_t
+strings	function.h	/^    string_t *strings;$/;"	m	struct:function_t
+strval0	test.t.s	/^strval0:$/;"	l
+temp_destroy	temp.c	/^void temp_destroy(temp_t *tmp) {$/;"	f
+temp_global	temp.c	/^temp_t* temp_global(char *name, const char *glb, temp_t *next) {$/;"	f
+temp_init	temp.c	/^static temp_t* temp_init(char *name, temp_t *next) {$/;"	f	file:
+temp_int	temp.c	/^temp_t* temp_int(char *name, long long val, temp_t *next) {$/;"	f
+temp_label	temp.c	/^void temp_label(temp_t *tmp) {$/;"	f
+temp_local	temp.c	/^temp_t* temp_local(char *name, local_t *local, temp_t *next) {$/;"	f
+temp_param	temp.c	/^temp_t* temp_param(char *name, arg_t *arg, temp_t *next) {$/;"	f
+temp_print	temp.c	/^void temp_print(temp_t *tmp) {$/;"	f
+temp_t	temp.h	/^typedef struct temp_t {$/;"	s
+temp_t	temp.h	/^} temp_t;$/;"	t	typeref:struct:temp_t
+temps	function.h	/^    temp_t *temps;$/;"	m	struct:function_t
+tmp	cgen.yacc.h	/^    struct temp_t *tmp;$/;"	m	union:YYSTYPE	typeref:struct:YYSTYPE::temp_t
+top	cgen.y	/^top :               \/* empty rule *\/$/;"	l
+tstadd	test.t.s	/^tstadd:$/;"	l
+tstcall	test.t.s	/^tstcall:$/;"	l
+tstconst	test.t.s	/^tstconst:$/;"	l
+tstdiv	test.t.s	/^tstdiv:$/;"	l
+tstmod	test.t.s	/^tstmod:$/;"	l
+tstmul	test.t.s	/^tstmul:$/;"	l
+tstshl	test.t.s	/^tstshl:$/;"	l
+tstshr	test.t.s	/^tstshr:$/;"	l
+tstsub	test.t.s	/^tstsub:$/;"	l
+type	temp.h	/^    unsigned type;$/;"	m	struct:temp_t
+unop	cgen.y	/^unop    : ISUB ID       { }$/;"	l
+val	temp.h	/^        long long val;$/;"	m	union:temp_t::__anon1
+yytokentype	cgen.yacc.h	/^  enum yytokentype$/;"	g
